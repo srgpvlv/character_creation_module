@@ -1,0 +1,3 @@
+[submodule "graphc_arts"]
+	path = graphc_arts
+	url = git@github.com:srgpvlv/graphic_arts.git
